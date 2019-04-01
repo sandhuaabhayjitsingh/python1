@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.swing.JFrame void setDefaultCloseOperation(int)'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
